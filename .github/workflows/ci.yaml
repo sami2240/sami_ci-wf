@@ -21,7 +21,7 @@ jobs:
           git -v
           git branch
           git log
-          got config --local --list
+          git config --local --list
 
 
     
